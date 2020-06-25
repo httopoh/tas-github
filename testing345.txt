@@ -1,0 +1,2 @@
+install mysql 1.8
+update my github account and connect with eclipse
